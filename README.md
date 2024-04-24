@@ -4,6 +4,7 @@
 This project implements a simple reverse shell in C++. It establishes a connection to a remote server, redirects standard input/output/error to a socket, and allows interaction with a shell on the target system. The code is designed for Windows environments and uses Winsock for network communication.
 
 ## Getting Started
+-Simply download the PowerShell or cmd release and you're good to go
 
 ### Prerequisites
 - A Windows environment.
