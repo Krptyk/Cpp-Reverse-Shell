@@ -35,4 +35,4 @@ The code performs the following steps:
 6. Cleans up resources after the shell completes.
 
 ## License
-[Choose a license](https://choosealicense.com/) that suits your project's needs.
+GPL
